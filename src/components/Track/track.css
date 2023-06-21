@@ -1,0 +1,14 @@
+.track {
+}
+
+.text-container {
+  display: inline-block;
+}
+
+.track button {
+  font-size: 120%;
+  margin: 2rem;
+  float: right;
+  height: 2rem;
+  width: 2rem;
+}

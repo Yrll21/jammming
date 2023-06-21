@@ -1,0 +1,38 @@
+.search-bar {
+    position: relative;
+    height: 20vh;
+
+  }
+
+  .search-bar input {
+    display: block;
+    font-size: 1.2rem;
+    height: 2rem;
+    width: 15rem;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 4rem auto 4rem auto;
+    text-align: center;
+  }
+
+  .search-bar button {
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    border-width: 0px;
+    height: 3rem;
+    width: 10rem;
+    margin: auto;
+    background-color: #001C30;
+    color: #DAFFFB;
+  }
+
+  .search-bar button:hover {
+    background-color: #176B87;
+  }
+
+  .search-bar button:active {
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }
+

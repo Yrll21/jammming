@@ -1,0 +1,9 @@
+.search-results {
+    padding: 2rem;
+    border-radius: 2rem;
+    width: 40%;
+    height: 90%;
+    background-color: #001C30;
+    opacity: 1;
+    margin: 2rem;
+  }

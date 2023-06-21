@@ -1,0 +1,41 @@
+.track-list {
+    padding: 2rem;
+    border-radius: 2rem;
+    width: 40%;
+    height: 90%;
+    background-color: #001C30;
+    opacity: 1;
+    margin: 2rem;
+  }
+
+  .track-list input {
+    display: block;
+    font-size: 1.2rem;
+    height: 2rem;
+    width: 15rem;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 4rem auto 4rem auto;
+    text-align: center;
+  }
+
+  .track-list > button {
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    border-width: 0px;
+    height: 3rem;
+    width: 15rem;
+    margin: auto;
+    background-color: black;
+    color: #DAFFFB;
+  }
+
+  .track-list > button:hover {
+    background-color: #176B87;
+  }
+
+  .track-list > button:active {
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }

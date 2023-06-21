@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #001C30;
+}
+
+h1 {
+    color: #DAFFFB;
+}
